@@ -5,7 +5,10 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Imagem  | crie uma imagem ultrarealista de uma mulher branca, olhos castanhos, cabelos bem curtos e grisalhos com uma franja lateral, olhos orientais, traços delicados e com uma feição confiante. A imagem deverá ter o tamanho 1:1. Esta mulher deve estar usando um blazer cinza, camisa branca e brincos pequenos e estar sorrindo, ela sentada em uma cadeira executiva com os braços sobre uma mesa de frente para um microfone usado em podcast.                                                        |
+|  Imagem  | crie uma imagem ultrarealista de uma mulher branca, olhos castanhos, cabelos bem curtos e grisalhos com uma franja lateral, olhos orientais, traços delicados e com uma feição confiante. A imagem deverá ter o tamanho 1:1. Esta mulher deve estar usando um blazer cinza, camisa branca e brincos pequenos e estar sorrindo, ela sentada em uma cadeira executiva com os braços sobre uma mesa de frente para um microfone usado em podcast.    |
+
+|  Titulo  |  FLYCAST: CONQUISTANDO AS ALTURAS  |
+
 | conteúdo | Você é um roteirista de podcast  e vamos criar um roteiro de um podcast focado fortalecimento da autoestima, no desenvolvimento pessoal e profissional, na busca do autoconhecimento, na libertação de estereótipos e valorização da individualidade, cujo o nome é " FLYCAST: CONQUISTANDO AS ALTURAS. Tem como alvo o público feminino.
 o formato do roteiro deve ser
 [INTRODUÇÃ@]
