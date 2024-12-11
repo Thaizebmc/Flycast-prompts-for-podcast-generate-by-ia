@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-    preview do podcast
+   <audio src="output/FlyCast.mp3" controls title="Podcast editado">Preview do podcast</audio> 
 </p>
 
 <div align="center">
-    <audio src="output/FlyCast Novo.mp3" controls title="Podcast editado"></audio>
+    <audio src="output/FlyCast.mp3" controls title="Podcast editado"></audio>
 </div>
 
 ## 👨‍💻 Expert
