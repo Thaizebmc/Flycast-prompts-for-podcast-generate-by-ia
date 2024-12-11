@@ -1,3 +1,17 @@
+# FLYCAST: CONQUISTANDO AS ALTURAS
+
+<p align="center">
+<a href="https://github.com/Thaizebmc/lab-natty-or-not/"><img src="assets/capared.jpg" alt="Na Corda Bamba"></a>
+</p>
+
+<p align="center">
+    preview do podcast
+</p>
+
+<div align="center">
+    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+</div>
+
 ## 👨‍💻 Expert
 
 <p>
