@@ -7,11 +7,7 @@
 <p align="center">
    <audio src="output/FlyCast.mp3" controls title="Podcast editado">Preview do podcast</audio> 
 </p>
-
-<div align="center">
-    <audio src="output/FlyCast.mp3" controls title="Podcast editado"></audio>
-</div>
-
+![Music](output/FlyCast.mp3)
 ## 👨‍💻 Expert
 
 <p>
