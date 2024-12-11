@@ -1,7 +1,7 @@
 # FLYCAST: CONQUISTANDO AS ALTURAS
 
 <p align="center">
-<a href="https://github.com/Thaizebmc/lab-natty-or-not/"><img src="assets/capared.jpg" alt="Na Corda Bamba"></a>
+<a href="https://github.com/Thaizebmc/Flycast-prompts-for-podcast-generate-by-ia/"><img src="assets/capanovared.jpg" alt="FLYCAST"></a>
 </p>
 
 <p align="center">
