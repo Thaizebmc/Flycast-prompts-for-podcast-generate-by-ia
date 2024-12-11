@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-   <audio src="output/FlyCast.mp3" controls title="Podcast editado">Preview do podcast</audio> 
+   <audio src="output/FlyCast.mp3" controls title="Podcast editado">![Music](output/FlyCast.mp3)</audio> 
 </p>
-![Music](output/FlyCast.mp3)
+
 ## 👨‍💻 Expert
 
 <p>
