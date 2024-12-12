@@ -13,7 +13,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 🚀 Resultados
 O e-book apresenta um conteúdo inusitado e visualmente rico. No formato de "propaganda" convida leitores a se permitirem embarcar no mundo da imaginação.
 
-<a href="output/FlyCast.mp3" title="Play MP3"> 📕Clique aqui ter acesso ao audio</a>
+<a href="output/" title="Play MP3"> 📕Clique aqui ter acesso ao audio</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 - [Copilot](https://copilot.microsoft.com/onboarding) 
