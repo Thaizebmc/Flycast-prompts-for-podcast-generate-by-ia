@@ -11,7 +11,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo inusitado e visualmente rico. No formato de "propaganda" convida leitores a se permitirem embarcar no mundo da imaginação.
+O Flycast é um podcast focado fortalecimento da autoestima, no desenvolvimento pessoal e profissional, voltado para o público feminino.
 
 <a href="output/" title="Play MP3"> 📕Clique aqui ter acesso ao audio</a>
 
